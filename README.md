@@ -1,6 +1,6 @@
 # Alexey Gaibovich
 
-**Senior Backend Engineer · Software Architect · Tech Lead**
+**Backend Engineer · Software Architect · Tech Lead**
 
 Backend engineer with 9 years of commercial experience building and evolving web platforms, distributed systems, and backend services. Focused on software architecture, microservices, integrations, performance, and engineering practices.
 
